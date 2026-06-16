@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Local database files / transaction records (optional to ignore, but ignoring test files is good)
+test_books.txt
+test_issued_books.txt
